@@ -1,1 +1,0 @@
-import{c as n,a as o,w as a,D as s,f as c,l as r,A as l,V as i}from"./index-W4kja-31.js";const m={__name:"IconBtn",props:{icon:{type:[String,Object],default:null}},setup(t){return(e,u)=>(o(),n(i,l({icon:""},e.$attrs),{default:a(()=>[e.$slots.default?s(e.$slots,"default",{key:0}):t.icon?(o(),n(r,{key:1,icon:t.icon},null,8,["icon"])):c("",!0)]),_:3},16))}};export{m as _};
